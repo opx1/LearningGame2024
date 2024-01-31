@@ -8,7 +8,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEventsBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/DetectCollision2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/Invoke2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/InvokeChallenge2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/MonoEvents2020.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/MonoEventsBehavior12022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/MonoEventsBehavior2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/OnClickEvents2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/OnMouseDown2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/TriggerEventBehavior2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/TriggerEvents2022.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/TriggerEventsBehavior2020.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/World_SceneScripts/ActivatingGameObjects2022.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1706637628438</updated>
       <workItem from="1706637658045" duration="2069000" />
-      <workItem from="1706676960870" duration="889000" />
+      <workItem from="1706676960870" duration="1659000" />
+      <workItem from="1706682202868" duration="1185000" />
     </task>
     <servers />
   </component>
