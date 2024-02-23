@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ae6450-13f7-4d93-9be3-c20686bc4e5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/SpriteBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/SpriteBehaviour.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b9ae6450-13f7-4d93-9be3-c20686bc4e5d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1706637658045" duration="2069000" />
       <workItem from="1706676960870" duration="1659000" />
       <workItem from="1706682202868" duration="1185000" />
-      <workItem from="1708540313119" duration="6333000" />
+      <workItem from="1708540313119" duration="6932000" />
     </task>
     <servers />
   </component>
