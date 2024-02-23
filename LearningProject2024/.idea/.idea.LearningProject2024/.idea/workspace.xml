@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9ae6450-13f7-4d93-9be3-c20686bc4e5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UnityEventScripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/SpriteBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/SpriteBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/CoroutineBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/DetectCollision2022.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/Invoke2022.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/InvokeChallenge2022.cs" root0="SKIP_HIGHLIGHTING" />
@@ -82,7 +83,7 @@
       <workItem from="1706637658045" duration="2069000" />
       <workItem from="1706676960870" duration="1659000" />
       <workItem from="1706682202868" duration="1185000" />
-      <workItem from="1708540313119" duration="1729000" />
+      <workItem from="1708540313119" duration="6333000" />
     </task>
     <servers />
   </component>
