@@ -8,7 +8,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/CoroutineBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventScripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/DetectCollision2022.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/Invoke2022.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldScriptsAndTools/Events_DetectScripts/InvokeChallenge2022.cs" root0="SKIP_HIGHLIGHTING" />
@@ -81,7 +83,7 @@
       <workItem from="1706637658045" duration="2069000" />
       <workItem from="1706676960870" duration="1659000" />
       <workItem from="1706682202868" duration="1185000" />
-      <workItem from="1708540313119" duration="8061000" />
+      <workItem from="1708540313119" duration="10936000" />
     </task>
     <servers />
   </component>
